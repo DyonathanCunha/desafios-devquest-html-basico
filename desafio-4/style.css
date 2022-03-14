@@ -10,3 +10,7 @@
 .casa .titulo {
     background-color: #00c4b4;
 }
+
+th, td {
+    padding: 20px;
+}
